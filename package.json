@@ -1,4 +1,12 @@
 {
+  "name": "weather-mcp",
+  "version": "1.0.0",
+  "description": "A simple MCP to view the current weather in any city using the Open Weather API",
+  "author": {
+    "name": "Jesus David Urquijo Corredor",
+    "email": "jesus@urquijo.dev",
+    "url": "https://urquijo.dev"
+  },
   "dependencies": {
     "@modelcontextprotocol/sdk": "^1.10.0",
     "@types/yargs": "^17.0.33",
@@ -7,9 +15,10 @@
   },
   "type": "module",
   "devDependencies": {
-    "@types/node": "^22.14.1"
+    "@types/node": "^22.14.1",
+    "typescript": "^5.8.3"
   },
   "bin": {
-    "weather-mcp": "main.ts"
+    "weather-mcp": "dist/main.js"
   }
 }
