@@ -20,5 +20,9 @@
   },
   "bin": {
     "weather-mcp": "dist/main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zerofelx/openweather-mcp"
   }
 }
