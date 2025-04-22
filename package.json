@@ -19,7 +19,7 @@
     "typescript": "^5.8.3"
   },
   "bin": {
-    "weather-mcp": "dist/main.js"
+    "weather-mcp": "main.ts"
   },
   "repository": {
     "type": "git",
