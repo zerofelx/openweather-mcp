@@ -13,7 +13,7 @@ const apiKey = argv.a
 
 // Crear servidor
 const server = new McpServer({
-    'name': 'Demo',
+    'name': 'OpenWeather MCP',
     'version': '1.0.0'
 })
 

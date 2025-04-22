@@ -1,5 +1,5 @@
 {
-  "name": "weather-mcp",
+  "name": "openweather-mcp",
   "version": "1.0.0",
   "description": "A simple MCP to view the current weather in any city using the Open Weather API",
   "author": {
